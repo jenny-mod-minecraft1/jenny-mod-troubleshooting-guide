@@ -1,5 +1,10 @@
 # Jenny Mod Troubleshooting Guide
 
+![Jenny Mod Homepage](jenny-mod-homepage.png)
+
+A practical resource for Minecraft players looking for installation guidance, compatibility information, troubleshooting help, and setup instructions for Jenny Mod.
+# Jenny Mod Troubleshooting Guide
+
 Welcome to the Jenny Mod Troubleshooting Guide.
 
 This repository provides installation help, compatibility information, troubleshooting resources, and setup guidance for Minecraft players using Jenny Mod.
